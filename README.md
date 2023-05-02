@@ -7,3 +7,4 @@ This repository is meant to provide an example for editing lists in Markdown. Fo
 One edit
 Second edit
 Third edit
+Fourth
